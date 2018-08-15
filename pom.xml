@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.dk</groupId>
-	<artifactId>springbootdemo1</artifactId>
+	<artifactId>springboot-jdbc</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
